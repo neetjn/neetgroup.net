@@ -1,2 +1,2 @@
 # neetgroup.net
-Company website created with RoR and Riot.js.
+Company website created with Laravel and Riot.js.
